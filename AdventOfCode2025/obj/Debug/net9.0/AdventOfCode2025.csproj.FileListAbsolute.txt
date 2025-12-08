@@ -1,0 +1,15 @@
+C:\Users\LBg13756\source\repos\AdventofCode2025\AdventOfCode2025\bin\Debug\net9.0\AdventOfCode2025.exe
+C:\Users\LBg13756\source\repos\AdventofCode2025\AdventOfCode2025\bin\Debug\net9.0\AdventOfCode2025.deps.json
+C:\Users\LBg13756\source\repos\AdventofCode2025\AdventOfCode2025\bin\Debug\net9.0\AdventOfCode2025.runtimeconfig.json
+C:\Users\LBg13756\source\repos\AdventofCode2025\AdventOfCode2025\bin\Debug\net9.0\AdventOfCode2025.dll
+C:\Users\LBg13756\source\repos\AdventofCode2025\AdventOfCode2025\bin\Debug\net9.0\AdventOfCode2025.pdb
+C:\Users\LBg13756\source\repos\AdventofCode2025\AdventOfCode2025\obj\Debug\net9.0\AdventOfCode2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LBg13756\source\repos\AdventofCode2025\AdventOfCode2025\obj\Debug\net9.0\AdventOfCode2025.AssemblyInfoInputs.cache
+C:\Users\LBg13756\source\repos\AdventofCode2025\AdventOfCode2025\obj\Debug\net9.0\AdventOfCode2025.AssemblyInfo.cs
+C:\Users\LBg13756\source\repos\AdventofCode2025\AdventOfCode2025\obj\Debug\net9.0\AdventOfCode2025.csproj.CoreCompileInputs.cache
+C:\Users\LBg13756\source\repos\AdventofCode2025\AdventOfCode2025\obj\Debug\net9.0\AdventOfCode2025.sourcelink.json
+C:\Users\LBg13756\source\repos\AdventofCode2025\AdventOfCode2025\obj\Debug\net9.0\AdventOfCode2025.dll
+C:\Users\LBg13756\source\repos\AdventofCode2025\AdventOfCode2025\obj\Debug\net9.0\refint\AdventOfCode2025.dll
+C:\Users\LBg13756\source\repos\AdventofCode2025\AdventOfCode2025\obj\Debug\net9.0\AdventOfCode2025.pdb
+C:\Users\LBg13756\source\repos\AdventofCode2025\AdventOfCode2025\obj\Debug\net9.0\AdventOfCode2025.genruntimeconfig.cache
+C:\Users\LBg13756\source\repos\AdventofCode2025\AdventOfCode2025\obj\Debug\net9.0\ref\AdventOfCode2025.dll
