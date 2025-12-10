@@ -1,3 +1,5 @@
+using System.Net.Sockets;
+
 namespace AdventOfCode2025;
 
 public static class Day2
@@ -17,20 +19,40 @@ public static class Day2
 
             for (long id = start; id <= end; id++)
             {
-                if (IsDouble(id))
+                if (IsRepeatedSequence(id))
                 sum += id;
             }
         }
-        Console.WriteLine($"Part 1: {sum}");
+        Console.WriteLine($"Part 2: {sum}");
     }
 
-    private static bool IsDouble(long id)
+    private static bool IsRepeatedSequence(long id)
     {
         string s = id.ToString();
-        if (s.Length % 2 != 0)
-        return false;
+        int len = s.Length;
 
-        int half = s.Length / 2;
-        return s.Substring(0, half) == s.Substring(half);
+        for (int l = 1; l <= len / 2; l++)
+        {
+            if (len % l != 0)
+                continue;
+
+            string part = s.Substring(0, l);
+            string repeated = string.Concat(Enumerable.Repeat(part, len / l));
+
+            if (repeated == s)
+                return true;
+        }
+
+        return false;
     }
 }
+
+    // private static bool IsDouble(long id)
+    // {
+    //     string s = id.ToString();
+    //     if (s.Length % 2 != 0)
+    //     return false;
+
+    //     int half = s.Length / 2;
+    //     return s.Substring(0, half) == s.Substring(half);
+    // }
